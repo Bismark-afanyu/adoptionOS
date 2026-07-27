@@ -350,13 +350,13 @@ export default function PlatformPage() {
 
             <div className="mt-7 flex flex-wrap gap-2">
 
-              {(cap.tags ?? [
+              {[
                 "Organization profile",
                 "Delivery methodology",
                 "Program scope",
                 "Impacted functions",
                 "Business impact"
-              ]).map((tag: string) => (
+              ].map((tag: string) => (
 
                 <span
                   key={tag}
