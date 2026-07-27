@@ -24,7 +24,7 @@ export default function CTASection({
       <div
         className="absolute inset-0 bg-cover bg-center bg-no-repeat"
         style={{
-          backgroundImage: "url('/image/modern-business-center 1.png')",
+          backgroundImage: "url('/image/modern-business-center 1.jpg')",
         }}
       />
       <div className="absolute inset-0 bg-gradient-to-b from-dark/30 via-dark/50 to-dark" />

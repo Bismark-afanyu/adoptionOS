@@ -89,7 +89,7 @@ export default function Foundation() {
             <div className="absolute inset-0 bg-gradient-to-tr from-[#93c5fd]/30 via-[#c084fc]/25 to-[#a7f3d0]/35 rounded-3xl blur-3xl pointer-events-none -z-10" />
 
             <img
-              src="/image/Browser.png"
+              src="/image/Browser.jpg"
               alt="AdoptionOS Platform 3D Stack"
               className="w-full h-auto object-contain drop-shadow-2xl pointer-events-none"
             />

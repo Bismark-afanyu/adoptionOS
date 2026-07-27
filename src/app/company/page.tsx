@@ -95,7 +95,7 @@ export default function CompanyPage() {
             </div>
             <div className="hidden lg:flex justify-center">
               <img
-                src="/image/archive-illustration.png"
+                src="/image/archive-illustration.jpg"
                 alt="AdoptionOS platform illustration"
                 className="w-full max-w-md"
               />
@@ -112,7 +112,7 @@ export default function CompanyPage() {
             <div className="relative flex flex-col justify-between overflow-hidden rounded-[28px] border border-[#E9EEF8] bg-[#EFF3FB] p-6 sm:p-10 min-h-[320px]">
               {/* Illustration - positioned right */}
               <img
-                src="/image/Rectangle 240649378.png"
+                src="/image/Rectangle 240649378.jpg"
                 alt="Vision illustration"
                 className="absolute right-0 top-0 h-full w-auto object-contain pointer-events-none"
               />
@@ -133,7 +133,7 @@ export default function CompanyPage() {
             <div className="relative flex flex-col justify-between overflow-hidden rounded-[28px] border border-[#E4E0F8] bg-[#EEEAFC] p-10 min-h-[320px]">
               {/* Illustration - positioned right */}
               <img
-                src="/image/Rectangle 2406493782.png"
+                src="/image/Rectangle 2406493782.jpg"
                 alt="Mission illustration"
                 className="absolute right-0 top-0 h-full w-auto object-contain pointer-events-none"
               />
@@ -324,7 +324,7 @@ export default function CompanyPage() {
               {/* Photo */}
               <div className="relative z-10 w-full max-w-[380px] lg:w-[420px] -right-4 sm:-right-10 -top-1">
                 <img
-                  src="/image/Adobe Express - file (6) 1.png"
+                  src="/image/Adobe Express - file (6) 1.jpg"
                   alt="Hilary Aben, Founder of AdoptionOS Inc."
                   className="w-full h-auto object-cover object-top"
                 />
@@ -337,14 +337,14 @@ export default function CompanyPage() {
       <section className="relative overflow-hidden py-28 bg-[#e8edf8]">
         {/* Background Image — Left side */}
         <img
-          src="/image/Group 2085664654.png"
+          src="/image/Group 2085664654.jpg"
           alt=""
           className="absolute left-0 top-0 h-full w-[28%] object-cover object-right pointer-events-none"
         />
         
         {/* Background Image — Right side (mirrored) */}
         <img
-          src="/image/Group 2085664654.png"
+          src="/image/Group 2085664654.jpg"
           alt=""
           className="absolute right-0 top-0 h-full w-[28%] object-cover object-left pointer-events-none -scale-x-100"
         />

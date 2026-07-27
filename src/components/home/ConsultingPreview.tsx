@@ -73,7 +73,7 @@ export default function Consulting() {
             {/* Laptop Photo */}
             <div className="rounded-[24px] overflow-hidden shadow-lg border border-slate-200/60">
               <img
-                src="/image/Man in Brown Suit Jacket.png"
+                src="/image/Man in Brown Suit Jacket.jpg"
                 alt="AdoptionOS platform on laptop"
                 className="w-full h-auto object-cover"
               />

@@ -38,7 +38,7 @@ export default function PlatformCapabilities() {
           {/* Right Column: Image with Text Overlay */}
           <div className="relative  overflow-hidden shadow-sm min-h-[400px]">
             <img
-              src="/image/rbC4T 1.png"
+              src="/image/rbC4T 1.jpg"
               alt="Team discussing transformation"
               className="absolute inset-0 w-full h-full object-cover"
             />
