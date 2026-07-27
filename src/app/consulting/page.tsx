@@ -16,9 +16,9 @@ const approach = [
 ];
 
 const pillars = [
-  { title: "Engagement", description: "The human connection required to build awareness, sponsorship, participation, feedback, and commitment throughout the transformation.", color: "bg-[#12b886]", image: "/image/Frame14.jpg", objectPosition: "center center" },
-  { title: "Enablement", description: "The knowledge, skills, tools, practice, and reinforcement required for people to work successfully in the new environment.", color: "bg-[#3b7cf5]", image: "/image/Frame.jpg", objectPosition: "center top" },
-  { title: "Analytics", description: "The evidence required to understand adoption, identify gaps, guide decisions, and continuously improve outcomes across the lifecycle.", color: "bg-[#7c5ce0]", image: "/image/Frame0.jpg", objectPosition: "center top" },
+  { title: "Engagement", description: "The human connection required to build awareness, sponsorship, participation, feedback, and commitment throughout the transformation.", color: "bg-[#12b886]", image: "/image/Frame14.png", objectPosition: "center center" },
+  { title: "Enablement", description: "The knowledge, skills, tools, practice, and reinforcement required for people to work successfully in the new environment.", color: "bg-[#3b7cf5]", image: "/image/Frame.png", objectPosition: "center top" },
+  { title: "Analytics", description: "The evidence required to understand adoption, identify gaps, guide decisions, and continuously improve outcomes across the lifecycle.", color: "bg-[#7c5ce0]", image: "/image/Frame0.png", objectPosition: "center top" },
 ];
 
 const services = [
@@ -126,7 +126,7 @@ export default function ConsultingPage() {
             </div>
             <div className="hidden lg:flex justify-center">
               <img
-                src="/image/Group 35.jpg"
+                src="/image/Group 35.png"
                 alt="ABEN's Method illustration"
                 className="w-full max-w-lg"
               />
@@ -142,7 +142,7 @@ export default function ConsultingPage() {
             {/* Left feature card */}
             <div className="relative overflow-hidden rounded-[22px] max-h-[438px]  bg-slate-900">
               <img
-                src="/image/Woman Sitting on Chair.jpg"
+                src="/image/Woman Sitting on Chair.png"
                 alt="Our Approach"
                 className="absolute inset-0 h-full w-full object-cover"
               />
@@ -301,7 +301,7 @@ export default function ConsultingPage() {
         {/* Background Image at the bottom */}
         <div className="absolute bottom-0 left-0 right-0 w-full h-[60%] pointer-events-none z-0 opacity-40 mix-blend-screen">
           <img
-            src="/image/bg 1.jpg"
+            src="/image/bg 1.png"
             alt=""
             className="w-full h-full object-cover object-bottom"
           />
@@ -472,7 +472,7 @@ export default function ConsultingPage() {
         <div className="lg:col-span-8 relative min-h-[400px] lg:min-h-full flex items-center justify-center p-6 sm:p-10 lg:p-16">
           {/* Background Image */}
           <img
-            src="/image/hr-professional-answering-applicant-questions-about-employment-perks-hiring-meeting 1.jpg"
+            src="/image/hr-professional-answering-applicant-questions-about-employment-perks-hiring-meeting 1.png"
             alt=""
             className="absolute inset-0 w-full h-full object-cover"
           />

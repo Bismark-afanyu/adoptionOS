@@ -7,7 +7,7 @@ export default function Hero() {
     >
       {/* Background image */}
       <img
-        src="/image/Grid & Gradient.jpg"
+        src="/image/Grid & Gradient.png"
         alt=""
         className="absolute inset-0 h-full w-full object-cover pointer-events-none"
       />
@@ -52,7 +52,7 @@ export default function Hero() {
           
           <div className="">
             <img
-              src="/image/Group 2085664658.jpg"
+              src="/image/Group 2085664658.png"
               alt="AdoptionOS Leadership Dashboard"
               className="block h-full w-full object-cover object-top"
             />

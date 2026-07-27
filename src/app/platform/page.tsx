@@ -248,7 +248,7 @@ export default function PlatformPage() {
             </div>
             <div className="hidden lg:flex justify-center">
               <img
-                src="/image/store-illustration.jpg"
+                src="/image/store-illustration.png"
                 alt="AdoptionOS platform illustration"
                 className="w-full max-w-xl"
               />
@@ -293,7 +293,7 @@ export default function PlatformPage() {
         <div className="absolute -left-4 bottom-[-14px] w-full h-full border-l-[8px] border-b-[8px] border-primary" />
 
         <img
-          src="/image/image 7.jpg"
+          src="/image/image 7.png"
           alt="Team Collaboration"
           className="relative w-full rounded-sm object-cover aspect-[4/3]"
         />

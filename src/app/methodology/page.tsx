@@ -132,7 +132,7 @@ export default function MethodologyPage() {
             </div>
             <div className="hidden lg:flex justify-center">
               <img
-                src="/image/query-illustration.jpg"
+                src="/image/query-illustration.png"
                 alt="ABEN's Method illustration"
                 className="w-full max-w-lg"
               />
@@ -255,7 +255,7 @@ export default function MethodologyPage() {
             </div>
             <div className="rounded-2xl overflow-hidden">
               <img
-                src="/image/Business Meeting Restaurant.jpg"
+                src="/image/Business Meeting Restaurant.png"
                 alt="Team collaborating on adoption strategy"
                 className="w-full h-full object-cover"
               />
